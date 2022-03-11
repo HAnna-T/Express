@@ -1,0 +1,15 @@
+{
+  "name": "express.js",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node  app.js",
+    "start-server": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
